@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _2147483647.Kernel
+namespace _2147483647
 {
 	class Program{
 		static void Main(string[] args){
