@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _2147483647
+namespace SCP603Sim
 {
     public class _95
     {

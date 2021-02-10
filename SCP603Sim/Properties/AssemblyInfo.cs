@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("SCP-603.NET")]
-[assembly: AssemblyCopyright("DartPower Team, LLC © 2018")]
+[assembly: AssemblyCopyright("DartPower Team, LLC © 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
